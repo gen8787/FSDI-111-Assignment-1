@@ -1,4 +1,4 @@
-# FSDI 110: Intermediate Python and Flask
+# FSDI 111: Intermediate Python and Flask
 
 ## Creating a user CRUD
 
