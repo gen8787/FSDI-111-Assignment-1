@@ -8,14 +8,14 @@
 
 ### Acceptance criteria:
 
--[x] It is possible to create users via a POST request.
+- [x] 1. It is possible to create users via a POST request.
 
--[x] It is possible to read (or view) users via a GET request.
+- [x] 2. It is possible to read (or view) users via a GET request.
 
--[x] It is possible to update users via a PUT request.
+- [x] 3. It is possible to update users via a PUT request.
 
--[x] It is possible to delete users via a DELETE request.
+- [x] 4. It is possible to delete users via a DELETE request.
 
--[x] All data entry operations must be validated to ensure an end user cannot purposely or accidentally submit invalid data.
+- [x] 5. All data entry operations must be validated to ensure an end user cannot purposely or accidentally submit invalid data.
 
--[x] As a bonus: distinguish between reading a single user or scanning (reading) all users!
+- [x] 6. As a bonus: distinguish between reading a single user or scanning (reading) all users!
